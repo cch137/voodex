@@ -1,1 +1,23 @@
-{}
+{
+  "name": "voodex",
+  "description": "...",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cch137/voodex.git"
+  },
+  "keywords": [
+    "voodex"
+  ],
+  "author": "cch137",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cch137/voodex/issues"
+  },
+  "homepage": "https://github.com/cch137/voodex#readme"
+}
